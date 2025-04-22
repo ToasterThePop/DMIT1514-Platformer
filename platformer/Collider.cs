@@ -6,13 +6,13 @@ namespace platformer;
 
 public class Collider
 {
-    public Vector2 _position, _dimensions;
+    public Vector2 position, dimensions;
     public Texture2D _texture;
     internal Rectangle BoundingBox
     {
         get
         {
-            return new Rectangle((int)_position.X, (int)_position.Y, (int)_dimensions.X, (int)_dimensions.Y);
+            return new Rectangle((int)position.X, (int)position.Y, (int)dimensions.X, (int)dimensions.Y);
         }
     }
 

@@ -9,8 +9,8 @@ public class ColliderRight : Collider
 
     public ColliderRight(Vector2 position, Vector2 dimensions)
     {
-        _position = position;
-        _dimensions = dimensions;
+        this.position = position;
+        this.dimensions = dimensions;
     }
 
     internal bool ProcessCollision(Player player, GameTime gameTime) {
