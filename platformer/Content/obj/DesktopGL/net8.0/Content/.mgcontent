@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/peter/Downloads/GitHub/DMIT-1514 Projects/DMIT1514-Platformer/platformer/Content/cloud.png</File>
+    <File>C:/Users/peter/Downloads/GitHub/DMIT-1514 Projects/DMIT1514-Platformer/platformer/Content/ColliderBottom.png</File>
+    <File>C:/Users/peter/Downloads/GitHub/DMIT-1514 Projects/DMIT1514-Platformer/platformer/Content/ColliderLeft.png</File>
+    <File>C:/Users/peter/Downloads/GitHub/DMIT-1514 Projects/DMIT1514-Platformer/platformer/Content/ColliderRight.png</File>
+    <File>C:/Users/peter/Downloads/GitHub/DMIT-1514 Projects/DMIT1514-Platformer/platformer/Content/ColliderTop.png</File>
+    <File>C:/Users/peter/Downloads/GitHub/DMIT-1514 Projects/DMIT1514-Platformer/platformer/Content/Idle.png</File>
+    <File>C:/Users/peter/Downloads/GitHub/DMIT-1514 Projects/DMIT1514-Platformer/platformer/Content/JumpOne.png</File>
+    <File>C:/Users/peter/Downloads/GitHub/DMIT-1514 Projects/DMIT1514-Platformer/platformer/Content/SystemArialFont.spritefont</File>
+    <File>C:/Users/peter/Downloads/GitHub/DMIT-1514 Projects/DMIT1514-Platformer/platformer/Content/Walk.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
